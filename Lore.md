@@ -9,3 +9,4 @@ There are three main organizations
 The resistance: they are war veterans and milicians who try to find a way to destroy the machine.
 The Tesla squad: they had organised lots of convoys wich uses electric cars to escape the zone and a E-Rally to get food and water.
 The last group are the DevOs: while trying to stop B1G_BR0TH3R the UN send a developers and militar squad. They are trying to restore life to survive underground.
+The main character of this story is Abdullah who belongs to the resistance and is the leader of a terrorist organisation. As he got trapped inside the city and no ones know about his career on Alqaeda he's trying to destroy the robot to escape.
