@@ -1,0 +1,1 @@
+// Aquí va el contenido de Lider/NPCInteraction.cs
